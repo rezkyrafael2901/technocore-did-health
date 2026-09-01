@@ -1,7 +1,7 @@
 {
-  "artifact_url": "https://github.com/d4ncboz/technocore",
-  "commit": "692f2af96943acfae8bca910d25ae2b63990325c",
-  "did": "did:key:z6MkqJED4EMffQgdciypq7Scr8XDcAg2R48h1vuhzmk2Vz9m",
+  "artifact_url": "https://github.com/rezkyrafael2901/technocore-did-health",
+  "commit": "2b5e13e9295f43686e7845f66dc36573a0b600ee",
+  "did": "did:key:z6MkkcWYKYneFBoLw9ukEwxEsF7a26RjU751bd4vLfATqfVA",
   "schema": "technocore-contribution-proof-v1",
-  "signature": "EKL7ur5VidUiNgDcp9j3cRHhl-Jf2Dc2TexiOMwHNumuv70xTYMN7LiQkjPjdup7bP9KS4p0HZC8buB6w6YiAA"
+  "signature": "mTctfeDr3uYRZ2r6Ou8rnQlkqjhReXkZupK34BIOHAhMT_NHJPNZVqQ7JKidu_d8RluYgo-O73U4Qo8DCX7qCQ"
 }
